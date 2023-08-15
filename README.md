@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @MariaB2000
-- 🌱 I’m currently studying computer science in University College Dublin, graduating in 2023
+- 🌱 I'm a Software Engineer with Ubotica Technologies.
