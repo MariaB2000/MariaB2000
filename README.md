@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @MariaB2000
-- 🌱 I'm a Software Engineer with Ubotica Technologies.
+
